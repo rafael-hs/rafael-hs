@@ -4,7 +4,7 @@
 ##### I'm a Brazilian Software Developer, currently I'm working with angular (Frontend) and dotnet core (Backend), but I like other technologies.
  ![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-hs&show_icons=true)
 
-<a href="https://coderstats.net/github/#rafael-hs"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40"></a> 
+<a href="https://coderstats.net/github/#rafael-hs" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40"></a> 
 
 ## Things I've interest
 
