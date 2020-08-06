@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there
+## I'm Rafael, better known as shiryu, feel free to nicknames :goat:
 
-<!--
-**rafael-hs/rafael-hs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a Brazilian Software Developer, currently I'm working with angular (Frontend) and dotnet core (Backend), but I like other technologies.
+ 
+ ## Where to find me
+ - Linkedin: https://www.linkedin.com/in/rafael-hs/
+ - Medium: https://medium.com/@rafael.hs
+ - Twitter: https://twitter.com/xiriuuu
+ - Twitch: https://www.twitch.tv/xiriuuu sometimes I'm play games
+ - Youtube: ---
+I want create youtube channel for talk about technologies, news coming soon...
 
-Here are some ideas to get you started:
+![nice](https://64.media.tumblr.com/139bb047eb50a98cf21c8b9869ce5f5b/tumblr_oazt5zJYAT1s9hagko1_500.gif "noice")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now I'm improving my english (I'm not fluently) and studying more about frontend, I feel comfortable with backend, so the focus on the frontend.
