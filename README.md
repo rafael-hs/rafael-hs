@@ -1,4 +1,4 @@
-# Hi there
+# Hi there :v:
 ## My name is Rafael, known as shiryu :goat:
 
 ##### I'm a Brazilian Software Developer, currently I'm working with angular (Frontend) and dotnet core (Backend), but I like other technologies.
