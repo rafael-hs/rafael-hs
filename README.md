@@ -5,8 +5,6 @@
  ![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-hs&show_icons=true)
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40"> more stats ->(https://coderstats.net/github/#rafael-hs)] 
-##### Now I'm improving my english (I'm not fluent) and studying more about frontend (current focus).
-![nice](https://64.media.tumblr.com/139bb047eb50a98cf21c8b9869ce5f5b/tumblr_oazt5zJYAT1s9hagko1_500.gif "noice")
 
 ## Things I've interest
 
@@ -14,6 +12,9 @@
 - javascript, typescript, node...
 - angular (spa) reactive programming
 - animes and games too XD
+
+##### Now I'm improving my english (I'm not fluent) and studying more about frontend (current focus).
+![nice](https://64.media.tumblr.com/139bb047eb50a98cf21c8b9869ce5f5b/tumblr_oazt5zJYAT1s9hagko1_500.gif "noice")
 
  ## Where to find me
  - Linkedin: https://www.linkedin.com/in/rafael-hs/
