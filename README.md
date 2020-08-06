@@ -2,7 +2,8 @@
 ## My name is Rafael, known as shiryu :goat:
 
 ##### I'm a Brazilian Software Developer, currently I'm working with angular (Frontend) and dotnet core (Backend), but I like other technologies.
-Code stats -> <a href="https://coderstats.net/github/#rafael-hs" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40"></a> 
+Code stats -> <a href="https://coderstats.net/github/#rafael-hs" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40" height="40"></a>
+
 ![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafael-hs&show_icons=true)
 
 ## Things I've interest
