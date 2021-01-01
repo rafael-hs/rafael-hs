@@ -21,7 +21,7 @@ Code stats -> <a href="https://coderstats.net/github/#rafael-hs" target="_blank"
  - Medium: https://medium.com/@rafael.hs
  - Twitter: https://twitter.com/xiriuuu
  - Twitch: https://www.twitch.tv/xiriuuu sometimes I'm play games
- - Youtube: --- I want create youtube channel to talk about technologies, news coming soon...
+ - Youtube: https://www.youtube.com/channel/UCbxiv2pskozS-E4dJc7MvQQ
 
 ![ty](https://media1.tenor.com/images/2ceca28886b449c680e64ecd6a7fa838/tenor.gif?itemid=16720034 "ty")
 ### ty!
