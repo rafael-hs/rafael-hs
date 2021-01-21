@@ -19,7 +19,7 @@ Code stats -> <a href="https://coderstats.net/github/#rafael-hs" target="_blank"
  ## Where to find me
  - Linkedin: https://www.linkedin.com/in/rafael-hs/
  - Medium: https://medium.com/@rafael.hs
- - Twitter: https://twitter.com/xiriuuu
+ - Twitter: https://twitter.com/rafahsdev
  - Twitch: https://www.twitch.tv/xiriuuu sometimes I'm play games
  - Youtube: https://www.youtube.com/channel/UCbxiv2pskozS-E4dJc7MvQQ
 
