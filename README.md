@@ -13,7 +13,7 @@ Code stats -> <a href="https://coderstats.net/github/#rafael-hs" target="_blank"
 - angular (spa) reactive programming
 - animes and games too XD
 
-##### Now I'm improving my english (I'm not fluent) and studying more about frontend (current focus).
+##### Now I'm improving my english (I'm not fluent) and studying more about backend (current focus).
 ![nice](https://64.media.tumblr.com/139bb047eb50a98cf21c8b9869ce5f5b/tumblr_oazt5zJYAT1s9hagko1_500.gif "noice")
 
  ## Where to find me
