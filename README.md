@@ -4,9 +4,10 @@
 ##### I'm a Brazilian Software Developer, currently I'm working with Elixir (Backend), but I like other technologies.
 
  <div>
-   <a href="https://github.com/warlleism">
+   <a href="https://github.com/rafael-hs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-hs&show_icons=true&theme=sublime&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-hs&layout=compact&langs_count=7&theme=sublime%22"/>
+   </a>
  </div>
 
 ##### Technologies that I had experience or that I've had contact with.
@@ -49,6 +50,7 @@
 ![nice](https://64.media.tumblr.com/139bb047eb50a98cf21c8b9869ce5f5b/tumblr_oazt5zJYAT1s9hagko1_500.gif "noice")
 
  ## Where to find me
+ 
  - Linkedin: https://www.linkedin.com/in/rafael-hs/
  - Medium: https://rafael-hs.medium.com/
  - Twitter: https://twitter.com/rafahsdev
