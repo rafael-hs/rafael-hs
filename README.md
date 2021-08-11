@@ -1,7 +1,7 @@
 # Hi there :v:
 ## My name is Rafael, known as shiryu :goat:
 
-##### I'm a Brazilian Software Developer, currently I'm working with Elixir (Backend), but I like other technologies.
+##### I'm a Brazilian Software Developer, currently I'm working with Elixir (phoenix).
 
  <div>
    <a href="https://github.com/rafael-hs">
@@ -14,6 +14,7 @@
 
  <div>
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-original.svg">
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
