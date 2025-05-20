@@ -5,15 +5,10 @@
 
 If you interest, you can check my virtual space to know more about me: [My Virtual Space](https://rafaelhs-tech.com)
 
-<div style="margin: auto;">
-  <a href="https://github.com/rafael-hs">
-   <img height="180em" width=630em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical"/>
-  </a>
-</div>
 <div>
   <a href="https://github.com/rafael-hs">
-   <img height="180em" width=630em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafael-hs&theme=radical"/>
-   <img height="180em" width=630em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafael-hs&theme=radical"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafael-hs&theme=radical"/>
   </a>
 </div>
 
@@ -26,7 +21,7 @@ If you interest, you can check my virtual space to know more about me: [My Virtu
 #### Mobile
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dart,flutter,ionic)
 #### Infrastructure
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,kubernetes,nginx,terraform)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,jenkins,kubernetes,nginx,terraform,helm)
 #### Database
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,postgres,redis,sqlite)
 #### Cloud
