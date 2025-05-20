@@ -7,14 +7,13 @@ If you interest, you can check my virtual space to know more about me: [My Virtu
 
 <div style="margin: auto;">
   <a href="https://github.com/rafael-hs">
-   <img height="180em" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical"/>
+   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical"/>
   </a>
 </div>
 <div>
   <a href="https://github.com/rafael-hs">
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafael-hs&theme=radical"/>
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafael-hs&theme=radical"/>
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafael-hs&theme=radical"/>
   </a>
 </div>
 
