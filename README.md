@@ -1,7 +1,9 @@
 # Hi there :v:
-## My name is Rafael, known as shiryu :goat:
+## My name is Rafael, but you can call me Rafa
 
-##### I'm a Brazilian Software Developer, currently I'm working with Elixir (phoenix).
+##### I'm a Brazilian Software Engineer, currently I'm working with Elixir (phoenix) and Golang.
+
+If you interest you can check my virtual space to know more about me: <a href="https://rafaelhs-tech.com" target="_blank">My Virtual Space</a>
 
  <div>
    <a href="https://github.com/rafael-hs">
