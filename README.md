@@ -6,7 +6,7 @@ If you interest, you can check my virtual space to know more about me: [My Virtu
 
 <div>
   <a href="https://github.com/rafael-hs">
-   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical"/>
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafael-hs&theme=radical&v=2"/>
    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafael-hs&theme=radical"/>
   </a>
 </div>
