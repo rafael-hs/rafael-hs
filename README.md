@@ -1,5 +1,4 @@
-# Hi there :v:
-## My name is Rafael, but you can call me Rafa
+# Hi there :v: I'm Rafa
 
 ##### I'm a Brazilian Software Engineer, currently I'm working with Elixir (phoenix) and Golang.
 
